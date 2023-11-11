@@ -102,7 +102,7 @@
                      id="grid-last-name" type="file" placeholder="Nama" multiple
                      accept="image/png, image/jpeg, image/webp">
               <div class="mt-2 text-sm text-gray-500">
-                Foto item. Lebih dari satu foto dapat diupload. Opsional
+                Foto item. Lebih dari satu foto dapat diupload. Opsional!
               </div>
             </div>
           </div>
